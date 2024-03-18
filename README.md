@@ -1,1 +1,1 @@
-# Smell-Detect-snd-Automatic-Spray-
+# Smell-Detect-And-Automatic-Spray-
